@@ -1,60 +1,60 @@
 {
   "Bowlers":[
     {
-      "X axis" : "-70.0",
-      "Y Axis ": "2800.0",
-      "Z Axis ": "-400.0",
+      "X Axis" : "-70.0",
+      "Y Axis": "2800.0",
+      "Z Axis": "-400.0",
       "Angular velocity" : "-2000.0",
-      "Linear Damping " :"-0.1",
-      "Angular Damping ": "-1.0"
+      "Linear Damping" :"-0.1",
+      "Angular Damping": "-1.0"
     },
      {
-      "X axis" : "-50.0",
-      "Y Axis ": "3000.0",
-      "Z Axis ": "-380.0",
+      "X Axis" : "-50.0",
+      "Y Axis": "3000.0",
+      "Z Axis": "-380.0",
       "Angular velocity" : "-1000.0",
-      "Linear Damping " :"-0.1",
-      "Angular Damping ": "-1.0"
+      "Linear Damping" :"-0.1",
+      "Angular Damping": "-1.0"
     },
      {
-      "X axis" : "-40.0",
-      "Y Axis ": "3000.0",
-      "Z Axis ": "-200.0",
+      "X Axis" : "-40.0",
+      "Y Axis": "3000.0",
+      "Z Axis": "-200.0",
       "Angular velocity" : "-2000.0",
-      "Linear Damping " :"0.0",
-      "Angular Damping ": "-1.0"
+      "Linear Damping" :"0.0",
+      "Angular Damping": "-1.0"
     },
      {
-      "X axis" : "0.0",
-      "Y Axis ": "3000.0",
-      "Z Axis ": "-180.0",
+      "X Axis" : "0.0",
+      "Y Axis": "3000.0",
+      "Z Axis": "-180.0",
       "Angular velocity" : "2000.0",
-      "Linear Damping " :"-0.1",
+      "Linear Damping" :"-0.1",
+      "Angular Damping": "-1.0"
+    },
+     {
+      "X Axis" : "-110.0",
+      "Y Axis": "2800.0",
+      "Z Axis": "-400.0",
+      "Angular velocity" : "-2000.0",
+      "Linear Damping" :"-0.1",
       "Angular Damping ": "-1.0"
     },
      {
-      "X axis" : "-110.0",
-      "Y Axis ": "2800.0",
-      "Z Axis ": "-400.0",
+      "X Axis" : "-150.0",
+      "Y Axis": "2800.0",
+      "Z Axis": "-100.0",
       "Angular velocity" : "-2000.0",
-      "Linear Damping " :"-0.1",
-      "Angular Damping ": "-1.0"
-    },
-     {
-      "X axis" : "-150.0",
-      "Y Axis ": "2800.0",
-      "Z Axis ": "-100.0",
-      "Angular velocity" : "-2000.0",
-      "Linear Damping " :"-0.1",
-      "Angular Damping ": "-1.0"
+      "Linear Damping" :"-0.1",
+      "Angular Damping": "-1.0"
     },
     {
-      "X axis" : "-70.0",
-      "Y Axis ": "3000.0",
-      "Z Axis ": "-430.0",
+      "X Axis" : "-70.0",
+      "Y Axis": "3000.0",
+      "Z Axis": "-430.0",
       "Angular velocity" : "2000.0",
-      "Linear Damping " :"-0.1",
-      "Angular Damping ": "-1.0"
+      "Linear Damping" :"-0.1",
+      "Angular Damping": "-1.0"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "Bowlers":[
     {
       "X Axis" : "-70.0",
-      "Y Axis": "4000.0",
-      "Z Axis": "-600.0",
+      "Y Axis": "3200.0",
+      "Z Axis": "-450.0",
       "Angular velocity" : "-2000.0",
       "Linear Damping" :"-0.1",
       "Angular Damping": "-1.0"

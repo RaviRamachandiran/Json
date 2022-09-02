@@ -38,7 +38,7 @@
       "Z Axis": "-400.0",
       "Angular velocity" : "-2000.0",
       "Linear Damping" :"-0.1",
-      "Angular Damping ": "-1.0"
+      "Angular Damping": "-1.0"
     },
      {
       "X Axis" : "-150.0",
